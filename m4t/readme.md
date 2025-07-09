@@ -246,7 +246,7 @@ After fine-tuning, you should see:
 
 - [SeamlessM4T Paper](https://arxiv.org/abs/2308.11596)
 - [Meta SeamlessM4T Repository](https://github.com/facebookresearch/seamless_communication)
-- [Fine-tuning Documentation](https://github.com/facebookresearch/seamless_communication/blob/main/docs/m4t/finetune_README.md)
+- [Fine-tuning Documentation](https://github.com/facebookresearch/seamless_communication/blob/main/docs/m4t/README.md)
 
 ## 🤝 Contributing
 
